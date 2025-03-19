@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
     printf("hiiii"); 
-    printf("heeeey"); 
+    printf("heeeey");
+    printf("yaaaaaaa");
 }
